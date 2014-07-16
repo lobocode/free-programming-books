@@ -57,7 +57,7 @@
 
 
 ###JavaScript
-* [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
+* [Eloquent Javascript PT-BR](https://github.com/ericdouglas/eloquente-javascript)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs)
